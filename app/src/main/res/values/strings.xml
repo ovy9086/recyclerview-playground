@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Recycler View Playground</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="cat_pics">
+        <item>http://www.madelta.com/wp-content/uploads/2014/06/cute-little-kittens.jpg</item>
+        <item>http://www.tehcute.com/pics/201109/light-kitten-big.jpg</item>
+        <item>http://kumitize.com/wp-content/uploads/2014/05/cute-kittens-ath3zwce.jpg</item>
+        <item>http://www.getupanddosomething.org/wp-content/uploads/kittens-59.jpg</item>
+        <item>https://pbs.twimg.com/profile_images/378800000532546226/dbe5f0727b69487016ffd67a6689e75a.jpeg</item>
+        <item>http://scienceblogs.com/gregladen/files/2012/12/Beautifull-cat-cats-14749885-1600-1200.jpg</item>
+        <item>http://upload.wikimedia.org/wikipedia/commons/2/22/Turkish_Van_Cat.jpg</item>
+        <item>http://i.huffpost.com/gen/964776/thumbs/o-CATS-KILL-BILLIONS-facebook.jpg</item>
+        <item>http://jasonlefkowitz.net/wp-content/uploads/2013/07/Cute-Cats-cats-33440930-1280-800.jpg</item>
+        <item>http://petattack.com/wp-content/uploads/2014/07/little_cute_cat_1920x1080.jpg</item>
+        <item>http://www.nose2tail.co.uk/cat-matlock-derbyshire.jpg</item>
+        <item>http://catsrusrescue.org/wp/wp-content/uploads/2013/03/cat2.jpg</item>
+        <item>http://media1.santabanta.com/full1/Animals/Cats/cats-87a.jpg</item>
+    </string-array>
+
+</resources>

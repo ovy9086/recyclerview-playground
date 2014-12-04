@@ -1,0 +1,19 @@
+# built application files
+*.apk
+*.ap_
+
+# files for the dex VM
+*.dex
+
+# Java class files
+*.class
+
+# generated files
+bin/
+build/
+gen/
+.idea/
+.gradle
+
+# Idea files
+*.iml
